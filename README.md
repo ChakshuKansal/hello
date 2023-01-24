@@ -1,2 +1,2 @@
-# hello, How are you !!!
+# hello, How are you
 Today we created repository
