@@ -1,4 +1,2 @@
 # hello, How are you
-Today we created repository
-now we will
-
+hi my name chakshu Kansal
